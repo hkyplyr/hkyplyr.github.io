@@ -1,8 +1,6 @@
 ---
 layout: post
-title:  "Setting up this blog"
-date:   2020-04-15 20:35:00 -0600
-categories: intro stack portfolio
+title:  "Setting up this website (Obselete)"
 ---
 Welcome to the first post of my blog. Honestly not sure what I'm planning on writing here, but for starters I figured I'd walk through the steps involved in setting this page up. 
 
